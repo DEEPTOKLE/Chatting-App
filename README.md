@@ -1,2 +1,2 @@
 # Chatting-App
-chatting app using python with GUI library (PyQt5))
+chatting app using python with GUI library (PyQt5)
